@@ -1,0 +1,2 @@
+# UniversityEventManagement
+UniversityEventManagement with H2 Database
